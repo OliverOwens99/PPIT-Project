@@ -1,0 +1,23 @@
+.highscores-table {
+    margin: auto;
+    width: 50%;
+    border-spacing: 10px;
+  }
+  
+  .highscores-heading {
+    text-align: center;
+    color: red;
+  }
+  .highscores-table td {
+    text-align: center;
+  }
+
+  body {
+    background-color: blue;
+     /* Replace 'url-to-your-image.jpg' with the actual URL or path to your image */
+    /*background-image: url('url-to-your-image.jpg');
+    /*background-size: cover; /* This will make the image cover the entire background */
+  }
+  .highscores-score {
+    color: yellow;
+  }
