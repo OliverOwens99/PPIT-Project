@@ -2,22 +2,31 @@
     margin: auto;
     width: 50%;
     border-spacing: 10px;
+    font-family: 'Comic Sans MS', sans-serif; /* This will change the font to Comic Sans */
   }
   
   .highscores-heading {
     text-align: center;
     color: red;
+    font-size: 30px; /* This will make the title bigger */
+    font-family: 'Comic Sans MS', sans-serif; /* This will change the font to Comic Sans */
   }
+  
   .highscores-table td {
     text-align: center;
+    font-size: 20px;
   }
-
+  
   body {
     background-color: blue;
-     /* Replace 'url-to-your-image.jpg' with the actual URL or path to your image */
-    /*background-image: url('url-to-your-image.jpg');
-    /*background-size: cover; /* This will make the image cover the entire background */
+    font-family: 'Comic Sans MS', sans-serif; /* This will change the font to Comic Sans */
   }
+  
   .highscores-score {
     color: yellow;
+    font-size: 20px;
+}
+
+.highscores-table th {
+    font-size: 25px; /* Adjust this value to change the font size */
   }
