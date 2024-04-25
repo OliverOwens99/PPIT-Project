@@ -18,7 +18,9 @@
   }
   
   body {
-    background-color: blue;
+    background-image: url('demo01_PixelSky.png'); /* Replace with the path to your image */
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Comic Sans MS', sans-serif; /* This will change the font to Comic Sans */
   }
   
